@@ -8,8 +8,8 @@ This project was developed as part of a **Full-Stack Developer Intern technical 
 
 ## 🚀 Live Demo
 
-- 🔗 **Frontend:** (https://github.com/Dinesh566734/Fission/tree/main/client)
-- 🔗 **Backend:** (https://github.com/Dinesh566734/Fission/tree/main/server)
+- 🔗 **Frontend:** (https://github.com/Dinesh566734/Fission/client)
+- 🔗 **Backend:** (https://github.com/Dinesh566734/Fission/server)
 
 ---
 
