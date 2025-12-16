@@ -98,3 +98,44 @@ await Event.findOneAndUpdate(
   { $addToSet: { attendees: userId } },
   { new: true }
 );
+```
+## ✅ Result
+
+- No two users can RSVP beyond capacity  
+- Duplicate RSVPs are blocked  
+- Backend remains consistent under concurrent requests  
+
+---
+
+## ⚙️ Environment Variables
+
+### Backend (`server/.env`)
+```env
+PORT=5000
+MONGO_URI=your_mongodb_atlas_connection_string
+JWT_SECRET=your_jwt_secret
+```
+▶️ Running Locally
+1️⃣ Clone Repository
+git clone https://github.com/your-username/mini-event-platform.git
+cd mini-event-platform
+
+2️⃣ Backend Setup
+cd server
+npm install
+npm run dev
+
+
+Backend runs on:
+
+http://localhost:5000
+
+3️⃣ Frontend Setup
+cd client
+npm install
+npm start
+
+
+Frontend runs on:
+
+http://localhost:3000
