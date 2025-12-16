@@ -8,8 +8,8 @@ This project was developed as part of a **Full-Stack Developer Intern technical 
 
 ## 🚀 Live Demo
 
-- 🔗 **Frontend:** (add Vercel / Netlify link here)
-- 🔗 **Backend:** (add Render / Railway link here)
+- 🔗 **Frontend:** (https://github.com/Dinesh566734/Fission/tree/main/client)
+- 🔗 **Backend:** (https://github.com/Dinesh566734/Fission/tree/main/server)
 
 ---
 
